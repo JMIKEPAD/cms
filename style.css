@@ -1,0 +1,57 @@
+
+@import url('http://fonts.cdnfonts.com/css/candy-shop-black-personal-use?styles=75616,75617,75618');
+
+img{
+    width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
+
+body, html{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Candy Shop Personal Use', sans-serif;
+    font-size: 40px;
+}
+
+
+a{
+    padding: 20px;
+    text-decoration: none;
+    color: #378680;
+    display: block;
+}
+
+.imageHeader{
+    height: 200px;
+    margin: 0px;
+    background-size: cover;
+    
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+#outer-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+
+#page-content{
+    align-self: center;
+    color: black;
+    font-size: 30px;
+}
